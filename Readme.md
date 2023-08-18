@@ -15,7 +15,7 @@ Ich möchte Mehr in C# lernen als nur ganz wenige basics der oberstufe.
 ✍️ Erstellen Sie jeweils am Ende einer Sitzung ein neues Kapitel, in welcher Sie 4 Arbeitspakete mit dazugehörigen Testfällen für die nächste Sitzung aufschreiben:
 
 - [ ] VS Installieren
-- [ ] 
+- [ ] Ein Programm schreiben das den Benutzer nach informationen fragt wie z.B. Name, Alter, Wohnort
 
 | Vorbereitung             | Eingabe | Erwartete Ausgabe |
 | ------------------------ | ------- | ----------------- |
