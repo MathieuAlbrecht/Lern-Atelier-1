@@ -11,6 +11,10 @@ Wenn nötig möchte ich auch an den Modulen Arbeiten.
 
 ✍️ Beschreiben Sie in einigen wenigen Sätzen (50 bis 100 Wörter), was Sie in diesem Zeitrahmen bearbeiten möchten, und warum. Was möchten Sie besonders üben oder lernen? Warum denken Sie, dass sich Ihr Projekt oder Ihre Übungen sich dazu eignen?
 
+## Arbeitspakete für 25.08.2023
+
+- [ ] Modul 431 Ziel gemäss Planung abschliessen 
+ 
 ## Arbeitspakete für 01.09.2023
 
 ✍️ Erstellen Sie jeweils am Ende einer Sitzung ein neues Kapitel, in welcher Sie 4 Arbeitspakete mit dazugehörigen Testfällen für die nächste Sitzung aufschreiben:
