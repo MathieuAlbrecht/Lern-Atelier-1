@@ -13,7 +13,7 @@ Wenn nötig möchte ich auch an den Modulen Arbeiten.
 
 ## Arbeitspakete für 25.08.2023
 
-- [x] Modul 431 Ziel gemäss Planung abschliessen 
+- [ ] Modul 431 Ziel gemäss Planung abschliessen 
  
 ## Arbeitspakete für 01.09.2023
 
