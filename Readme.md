@@ -19,8 +19,17 @@ Wenn nötig möchte ich auch an den Modulen Arbeiten.
 
 ✍️ Erstellen Sie jeweils am Ende einer Sitzung ein neues Kapitel, in welcher Sie 4 Arbeitspakete mit dazugehörigen Testfällen für die nächste Sitzung aufschreiben:
 
-- [ ] An Modul 431 weiterarbeiten vorarbeiten um uffer zu schaffe
-- [ ] Im Modul 319 das Arbeitsblatt Zahlen und Variabeln erledigen
+- [ ] An Modul 431 weiterarbeiten vorarbeiten um Puffer zu schaffe
+- [x] Im Modul 319 das Arbeitsblatt Zahlen und Variabeln erledigen
+
+Heute habe ich im Modul 431 den Auftrag 1713 gelöst und auf moodle geladen. Im Modul 1713 habe ich gelernt Wie ich einen Zeitplan für ein Projekt analyisiere und allenfalls verändere wenn etwas nicht nach Plan läuft. Ausserdem habe ich gelernt Lösungen für Zeitliche Probleme zu finden.Ich Habe auch das Modul 1718 gemacht bei welchem ich eine Tabelle für ein Gebrauchtes Handy, ein neues Samsung und ein Neues Handy gemacht habe bei welcher es durch Punktenvergabe bei 5 Kriterien einen Sieger geben musste in meinem Falle war es das Neue Samsung.
+
+## Arbeitspakete für 15.09.2023
+
+- [ ] Beim Modul 319 2 Arbeitsaufträge Lösen
+- [ ] Einen Rechner mit den Operationen + - in C# Programmieren.
+
+ 
 | Vorbereitung             | Eingabe | Erwartete Ausgabe |
 | ------------------------ | ------- | ----------------- |
 | Programm in VS gestartet | `Nico`  | `Hallo Nico`      |
