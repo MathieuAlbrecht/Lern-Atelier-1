@@ -27,7 +27,16 @@ Heute habe ich im Modul 431 den Auftrag 1713 gelöst und auf moodle geladen. Im 
 ## Arbeitspakete für 15.09.2023
 
 - [ ] Beim Modul 319 2 Arbeitsaufträge Lösen
-- [ ] Einen Rechner mit den Operationen + - in C# Programmieren.
+- [x] Einen Rechner mit den Operationen + - in C# Programmieren.
+
+Heute habe ich als erstes anstatt bei Modul 319 die 2 Arbeitsaufträge zu lösen den Auftrag 1721 vom Modul 431 nachgearbeitet da ich am Mittwoch nicht so gut vorangekommen bin. Danach habe ich Den Rechner in  C# programmiert und da ich noch Zeit hatte habe ich nicht nur die Operationen +,- eingebaut sondern auch noch *,/.(56 Wörter)
+
+## Arbeitspakete 22.09.2023
+
+- [ ] Ich möchte für einen Notenrechner Programmieren, dass man seine Noten eingeben kann
+- [ ] es soll möglich sein den Durchschnitt auszurechnen
+- [ ] es soll für verschiedene Fächer möglich sein
+- [ ] man sollte eintragen können wie viel die Note zählt und es sollte entsprechend verrechnet werden für den Durchschnitt.
 
  
 | Vorbereitung             | Eingabe | Erwartete Ausgabe |
