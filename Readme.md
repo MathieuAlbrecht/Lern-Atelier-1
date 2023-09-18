@@ -39,12 +39,4 @@ Heute habe ich als erstes anstatt bei Modul 319 die 2 Arbeitsaufträge zu lösen
 - [ ] man sollte eintragen können wie viel die Note zählt und es sollte entsprechend verrechnet werden für den Durchschnitt.
 
  
-| Vorbereitung             | Eingabe | Erwartete Ausgabe |
-| ------------------------ | ------- | ----------------- |
-| Programm in VS gestartet | `Nico`  | `Hallo Nico`      |
 
-- [ ] ...
-- [ ] ...
-- [ ] ...
-
-✍️  Haken Sie am Ende die Arbeitspakete ab, die Sie erledigen konnten. Schreiben Sie ggf. eine kurze Erklärung, was gut geklappt hat oder warum etwas nicht erreicht werden konnte.
