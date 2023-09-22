@@ -41,6 +41,10 @@ Heute habe ich als erstes anstatt bei Modul 319 die 2 Arbeitsaufträge zu lösen
  
 ## Reflexion Lernperiode 1:
 
-Während der ersten Lernperiode habe ich den Grössten Teil an den Modulen 319 und 431 gearbeitet um Stress in den Ferien oder während des Unterrichts zu vermeiden. Ausserdem habe ich einen Tascherechner mit den Operatoren (+,-,*,/) Programmiert und einen Notenrechner begonnen. 
+Während der ersten Lernperiode habe ich den Grössten Teil an den Modulen 319 und 431 gearbeitet um Stress in den Ferien oder während des Unterrichts zu vermeiden. Im Modul 431 habe ich verschiedene Aufträge erldeigt und im Modul 319 habe ich beim Portfolio einträge gemacht. Ausserdem habe ich einen Tascherechner mit den Operatoren (+,-,*,/) mit C# in Visual Studios Programmiert und einen Notenrechner begonnen. Trotzdem ich nicht immer extrem viel Motivation mitgebracht habe habe ich versucht mich bestmöglich zu konzentrieren. Für die nächsten Lernperioden könnte ich folgendes verbessern:
+
+- Ich möchte versuchen realistischere Arbeitspakete zu Formulieren.
+- Ich möchte ausserdem versuchen mehr Arbeiten pro Lernatelier zu erledigen.
+
 
 
