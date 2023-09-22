@@ -33,7 +33,7 @@ Heute habe ich als erstes anstatt bei Modul 319 die 2 Arbeitsaufträge zu lösen
 
 ## Arbeitspakete 22.09.2023
 
-- [ ] Ich möchte für einen Notenrechner Programmieren, dass man seine Noten eingeben kann
+- [ ] Ich möchte für einen Notenrechner Programmieren, bei dem man seine Noten eingeben kann
 - [ ] es soll möglich sein den Durchschnitt auszurechnen
 - [ ] es soll für verschiedene Fächer möglich sein
 - [ ] man sollte eintragen können wie viel die Note zählt und es sollte entsprechend verrechnet werden für den Durchschnitt.
