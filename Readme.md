@@ -39,4 +39,8 @@ Heute habe ich als erstes anstatt bei Modul 319 die 2 Arbeitsaufträge zu lösen
 - [ ] man sollte eintragen können wie viel die Note zählt und es sollte entsprechend verrechnet werden für den Durchschnitt.
 
  
+## Reflexion Lernperiode 1:
+
+Während der ersten Lernperiode habe ich den Grössten Teil an den Modulen 319 und 431 gearbeitet um Stress in den Ferien oder während des Unterrichts zu vermeiden. Ausserdem habe ich einen Tascherechner mit den Operatoren (+,-,*,/) Programmiert und einen Notenrechner begonnen. 
+
 
